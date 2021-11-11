@@ -6,11 +6,11 @@
 
 **请看好现在地址栏中的网址！**我有时也会在这里发布一些我感兴趣的内容，有可能是陈述，也有可能是教程。总之，**如果你想要转载（引用除外）此网站上的任何内容，请注明出处。**
 
-> 让我们开始吧：:clap:
+> 让我们开始吧：
 >
-> <a href="Daily/Daily.md"><button style="font-size:20px">阅读我的日记体博客</button></a>
+> <a href="Daily/Daily.html"><button style="font-size:20px">阅读我的日记体博客</button></a>
 >
-> <a href="杂项/杂项.md"><button style="font-size:20px">阅读其他类型文章</button></a>
+> <a href="杂项/杂项.html"><button style="font-size:20px">阅读其他类型文章</button></a>
 
 # 关于我自己
 
