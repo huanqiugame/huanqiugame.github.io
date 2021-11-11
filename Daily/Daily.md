@@ -6,9 +6,9 @@
 
 > 链接：
 >
-> <a href="../README.md"><button style="font-size:20px">回到首页</button></a>
+>  [回到首页](../README.md) 
 >
-> <a href="杂项/杂项.md"><button style="font-size:20px">阅读其他类型文章</button></a>
+>  [阅读其他类型文章](../杂项/杂项.md) 
 
 # 内容总览
 

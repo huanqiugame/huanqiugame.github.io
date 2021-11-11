@@ -8,9 +8,9 @@
 
 > 让我们开始吧：
 >
-> <a href="Daily/Daily.html"><button style="font-size:20px">阅读我的日记体博客</button></a>
+>  [阅读我的日记体博客](Daily/Daily.md) 
 >
-> <a href="杂项/杂项.html"><button style="font-size:20px">阅读其他类型文章</button></a>
+>  [阅读其他类型文章](杂项/杂项.md) 
 
 # 关于我自己
 
