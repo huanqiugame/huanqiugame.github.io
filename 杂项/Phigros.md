@@ -12,7 +12,7 @@
 >
 > Device Model: iPhone 8,2
 >
-> Ranking Score: 13.70
+> Ranking Score: 13.72
 
 ……跟那些大佬比起来，还是太烂了。
 
@@ -26,7 +26,7 @@
 
 对了，还有……
 
-<p style="color:red;font-size:50">多 练</p>
+<p style="color:red;font-size:70">多 练</p>
 
 ---
 
