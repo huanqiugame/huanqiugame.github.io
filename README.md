@@ -21,7 +21,7 @@
 <form id="my-form" action="https://formspree.io/f/mdoyqljy" method="POST">
   <label>您的电子邮件地址，以便我们联系您：</label>
   <br />
-  <textarea rows="1" cols="50" style="font-size:20px" name="email" required="required" placeholder="xxx@xxx.xxx"></textarea>
+  <textarea rows="1" cols="50" style="font-size:20px" name="email" placeholder="xxx@xxx.xxx"></textarea>
   <br />
   <label>您的建议或意见：</label>
   <br />
@@ -50,6 +50,7 @@
 }
 form.addEventListener("submit", handleSubmit)
 </script>
+
 
 
 # 友情链接
