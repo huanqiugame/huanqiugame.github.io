@@ -51,11 +51,12 @@
 form.addEventListener("submit", handleSubmit)
 </script>
 
+
 # 友情链接
 
 - [macwk.com](https://macwk.com) - 提供各种macOS软件的破解版
 - [macloudtv.com](https://macloudtv.com) - 休康，多年Mac教学经验，各类macOS使用上的疑难解答
 - [616.sb](https://616.sb) - 小型音游的下载站，原[konmai.cn](https://konmai.cn)
-- [PojavLauncher](https://github.com/pojavlauncherteam/pojavlauncher) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
+- [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
 
 <p style="color:gray"><code>Version 0.0.2</code></p>
