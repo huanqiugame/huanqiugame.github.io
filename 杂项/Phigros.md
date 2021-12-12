@@ -1,8 +1,8 @@
 # Phigros
 
-听过名字的都知道，这是一款**音游**，需要触屏，因此只支持[Android](https://www.taptap.com/app/165287)和[iOS](https://apps.apple.com/cn/app/id1454809109)平台。
+听过名字的都知道，这是一款**音游**，需要触屏支持，因此只有[Android](https://www.taptap.com/app/165287)和[iOS](https://apps.apple.com/cn/app/id1454809109)平台的版本。
 
-> 本文章绝不是在给Phigros打广告，而是我自愿的。Phigros的开发团队Pigeon Games是一个非营利性开发团队，也就是完全靠爱发电的，不可能要求打广告。所以请放心阅读。
+> 本文章绝不是在给Phigros打广告。Phigros的开发团队Pigeon Games是一个非营利性开发团队，也就是完全靠爱发电的。所以请放心阅读。
 
 这篇文章主要目的是记录我在Phigros中的成长历程，以及我认为在Phigros中有意思的，我都会拉出来聊聊。
 
@@ -26,7 +26,7 @@
 
 对了，还有……
 
-<p style="color:red;font-size:70">多 练</p>
+<p style="color:red;font-size:50">多 练</p>
 
 ---
 
