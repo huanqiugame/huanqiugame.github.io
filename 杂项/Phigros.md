@@ -26,8 +26,10 @@
 
 对了，还有……
 
-<p style="color:red;font-size:50">多 练</p>
+<p style="color:red;font-size:50px">多 练</p>
 
 ---
 
 >  [回到首页](../README.md) 
+>
+>  <a href="#" onClick="javascript :history.back(-1);">返回上一页</a>
