@@ -12,7 +12,7 @@
 >
 > [阅读其他类型文章](杂项/杂项.md)
 >
-> <a href="#" onClick="javascript :history.back(-1);">离开（返回上一页）</a>
+> <a href="" onClick="javascript :history.back(-1);">离开</a>
 
 # 关于我自己
 
@@ -21,13 +21,13 @@
 如果你有任何意见或建议，欢迎给我的邮箱（huanqiu_myworld@163.com）发送邮件，也可以通过下面的表单给我发送消息。
 
 <form id="my-form" action="https://formspree.io/f/mdoyqljy" method="POST">
-  <label>您的联系方式（任何联系方式均可，我们不会给您发送任何不必要的消息），以便我们联系您：</label>
+  <label>您的联系方式（我们不会给您发送任何不必要的消息），以便我们联系您：</label>
   <br />
-  <textarea rows="1" cols="50" style="font-size:20px" name="联系方式" placeholder=""></textarea>
+  <textarea rows="1" cols="50" style="font-size:20px" name="联系方式"></textarea>
   <br />
   <label>您的建议或意见：</label>
   <br />
-  <textarea rows="5" cols="50" style="font-size:20px" name="消息" required="required" placeholder="必填"></textarea>
+  <textarea rows="3" cols="50" style="font-size:20px" name="消息" required="required" placeholder="必填"></textarea>
   <button id="my-form-button" style="font-size:20">提交</button>
   <p id="my-form-status"></p>
 </form>
@@ -53,6 +53,7 @@
 form.addEventListener("submit", handleSubmit)
 </script>
 
+
 # 友情链接
 
 - [macwk.com](https://macwk.com/) - 提供各种macOS软件的破解版
@@ -60,4 +61,4 @@ form.addEventListener("submit", handleSubmit)
 - [616.sb](https://616.sb/) - 小型音游的下载站，原[konmai.cn](https://konmai.cn/)
 - [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
 
-<a style="color:gray"><code>Version 0.1.0 | Pre-Release 2</code></a> [更新日志](杂项/History.md) 
+<a style="color:gray"><code>Version 0.1.0 | Pre-Release 3</code></a> [更新日志](杂项/History.md) 
