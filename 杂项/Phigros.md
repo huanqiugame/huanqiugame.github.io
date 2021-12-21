@@ -34,4 +34,4 @@
 >
 >  [阅读其他杂类文章](杂项.md)
 >
->  <a href="" onClick="javascript :history.back(-1);">返回上一页</a>
+>  <a onClick="javascript :history.back(-1);">返回上一页（直接点我）</a>

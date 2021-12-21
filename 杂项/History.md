@@ -62,11 +62,18 @@
 
 ### 修复
 
-- 现在“上一页”链接可以正常使用了。
 - 更正了部分文章中的错别字。
+
+## Version 0.1.0 | Pre-Release 4
+
+此版本发布于12月21日。
+
+### 修复
+
+- 修复了“返回上一页”的链接。
 
 ---
 
 > [回到首页](../README.md)
 >
-> <a href="" onClick="javascript :history.back(-1);">返回上一页</a>
+> <a onClick="javascript :history.back(-1);">返回上一页（直接点我）</a>

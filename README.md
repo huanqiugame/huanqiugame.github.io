@@ -12,7 +12,7 @@
 >
 > [阅读其他类型文章](杂项/杂项.md)
 >
-> <a href="" onClick="javascript :history.back(-1);">离开</a>
+> <a onClick="javascript :history.back(-1);">离开（直接点我）</a>
 
 # 关于我自己
 
@@ -61,4 +61,4 @@ form.addEventListener("submit", handleSubmit)
 - [616.sb](https://616.sb/) - 小型音游的下载站，原[konmai.cn](https://konmai.cn/)
 - [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
 
-<a style="color:gray"><code>Version 0.1.0 | Pre-Release 3</code></a> [更新日志](杂项/History.md) 
+<code style="color:gray">Version 0.1.0 | Pre-Release 4</code> [更新日志](杂项/History.md) 
