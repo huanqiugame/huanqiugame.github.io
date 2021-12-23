@@ -72,8 +72,14 @@
 
 - 修复了“返回上一页”的链接。
 
+## Version 0.1.0
+
+### 常规
+
+- 现在将鼠标移至“返回上一页”的链接上时会显示手的样式了。
+
 ---
 
 > [回到首页](../README.md)
 >
-> <a onClick="javascript :history.back(-1);">返回上一页（直接点我）</a>
+> <a onClick="javascript :history.back(-1);" style="cursor:pointer">返回上一页</a>

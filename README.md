@@ -1,5 +1,7 @@
 # 欢迎
 
+<p style="font-size:40px;color:yellow">网站正式更新<code>0.1.0</code>版本！</p>
+
 欢迎来到我的博客！我是浣秋，一位在校学生。在这里，我会书写我的感受与想法，以及我认为值得记录的、发生在我身边的每一件事。
 
 因为学业关系，我不可能做到每日更新，但会尽量做到至少每周都能更新。
@@ -12,7 +14,7 @@
 >
 > [阅读其他类型文章](杂项/杂项.md)
 >
-> <a onClick="javascript :history.back(-1);">离开（直接点我）</a>
+> <a onClick="javascript :history.back(-1);" style="cursor:pointer">上一页</a>
 
 # 关于我自己
 
@@ -61,4 +63,4 @@ form.addEventListener("submit", handleSubmit)
 - [616.sb](https://616.sb/) - 小型音游的下载站，原[konmai.cn](https://konmai.cn/)
 - [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
 
-<code style="color:gray">Version 0.1.0 | Pre-Release 4</code> [更新日志](杂项/History.md) 
+<code style="color:gray">Version 0.1.0</code> [更新日志](杂项/History.md) 

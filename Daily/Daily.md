@@ -6,7 +6,7 @@
 >
 > [阅读其他类型文章](../杂项/杂项.md) 
 >
-> <a onClick="javascript :history.back(-1);">返回上一页（直接点我）</a>
+> <a onClick="javascript :history.back(-1);" style="cursor:pointer">返回上一页</a>
 
 内容总览
 
