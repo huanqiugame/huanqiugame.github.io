@@ -1,6 +1,6 @@
 # 欢迎
 
-<p style="font-size:40px;color:yellow">网站正式更新<code style="font-size:40px;color:yellow">0.1.0</code>版本！</p>
+<p style="font-size:40px;color:red">网站正式更新0.1.0版本！</p>
 
 欢迎来到我的博客！我是浣秋，一位在校学生。在这里，我会书写我的感受与想法，以及我认为值得记录的、发生在我身边的每一件事。
 
