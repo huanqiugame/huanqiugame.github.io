@@ -8,7 +8,7 @@
 
 以下是我的Phigros基本信息：
 
-> Version: 2.0.1
+> Version: 2.1.0
 >
 > Device Model: iPhone 8,2
 >
