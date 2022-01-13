@@ -1,10 +1,10 @@
-theme: "jekyll-theme-Hydrogen"
-title: "Huanqius blog"
-author: "Huanqiu"
-description: "just something to talk"
+theme: jekyll-theme-Hydrogen
+title: Huanqius-blog
+author: Huanqiu
+description: just-something-to-talk
 keywords: "blog"
-baseurl: ""
-url: "huanqiugame.github.io"
+baseurl: 
+url: huanqiugame.github.io
 bulidtime: 1636905600
 paginate: 10
 theme_color: 2799FA
