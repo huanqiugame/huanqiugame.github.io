@@ -61,4 +61,4 @@ form.addEventListener("submit", handleSubmit)
 - [616.sb](https://616.sb/) - 小型音游的下载站，原[konmai.cn](https://konmai.cn/)
 - [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
 
-<code style="color:gray">Version 0.1.1</code> <code>[更新日志](杂项/History.md)</code>
+<code style="color:gray">Version 0.1.1</code> [更新日志](杂项/History.md)
