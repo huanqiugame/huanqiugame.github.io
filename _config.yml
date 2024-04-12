@@ -4,7 +4,14 @@ author: Huanqiu
 description: 感谢有你。
 keywords: "blog"
 baseurl: 
+permalink: /:year/:month/:day/:title/
 url: huanqiugame.github.io
-bulidtime: 1636905600
-paginate: 10
-theme_color: 2799FA
+version: 0.1.1
+
+relative_links:
+    enabled:     true
+    collections: true
+titles_from_headings:
+    enabled:     true
+    strip_title: false
+    collections: false

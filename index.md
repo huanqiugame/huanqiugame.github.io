@@ -11,8 +11,6 @@
 > [阅读我的日记体博客](Daily/Daily.md)
 >
 > [阅读其他类型文章](杂项/杂项.md)
->
-> <a onClick="javascript :history.back(-1);" style="cursor:pointer">上一页</a>
 
 # 关于我自己
 
@@ -56,9 +54,6 @@ form.addEventListener("submit", handleSubmit)
 
 # 友情链接
 
-- [macwk.com](https://macwk.com/) - 提供各种macOS软件的破解版
 - [macloudtv.com](https://macloudtv.com/) - 休康，多年Mac教学经验，各类macOS使用上的疑难解答
 - [616.sb](https://616.sb/) - 小型音游的下载站，原[konmai.cn](https://konmai.cn/)
 - [PojavLauncher](https://github.com/PojavLauncherTeam/PojavLauncher/) - 一款可以在手机上运行Minecraft Java版的软件，没有防沉迷限制。
-
-<code style="color:gray">Version 0.1.1</code> [更新日志](杂项/History.md)
